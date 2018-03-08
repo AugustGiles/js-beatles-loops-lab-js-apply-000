@@ -1,1 +1,3 @@
-function beatlesLoops()
+function beatlesLoops() {
+  const[]
+}
